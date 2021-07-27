@@ -1,2 +1,1 @@
-# C-plus-plus-ranger
-Problems solving &amp; Data structure
+## :laughing: 1. Basic syntax of C++ and Python
