@@ -1,11 +1,10 @@
-## How to update the solution? 
+### 1. Pull request and Issue policy.
 
-## Pull requests
+1-1. Please provide solution by pull request function.
 
-## Issues
+1-2. Please share the question and error through issue. 
 
 
-## List 
+### 2. Notice List 
 
-## :laughing: 1. Basic syntax of C++ and Python
-
+2-1. Basic syntax of C++ and Python
