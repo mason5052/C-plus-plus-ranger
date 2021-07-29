@@ -36,3 +36,20 @@ Sample Output
 Explanation
 
 The sum of the three numbers is .*/
+
+//Solution1_Mason
+#include <iostream>
+using namespace std;
+
+int main() {
+    int i = 0;
+    int sum = 0;
+    
+    while (cin >> i) {
+        sum += i;
+    }
+    
+    cout << sum << endl;
+    
+    return 0;
+}
