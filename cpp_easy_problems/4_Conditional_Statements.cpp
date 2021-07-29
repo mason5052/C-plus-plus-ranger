@@ -34,18 +34,22 @@ else {
     ...
 }
 Given a positive integer , do the following:
+- if 1<= n <= 9, print the lowercase English word corresponding to the number (e.g., one for 1 two for 2, etc).
 
-If , print the lowercase English word corresponding to the number (e.g., one for , two for , etc.).
+- if n > 9, print Greater than 9.
+
+If 1<= n <=9, print the lowercase English word corresponding to the number (e.g., one for 1, two for 2, etc.).
 If , print Greater than 9.
 Input Format
 
 A single integer, .
 
 Constraints
+- 1<= n <= 10^9
 
 Output Format
 
-If , then print the lowercase English word corresponding to the number (e.g., one for , two for , etc.); otherwise, print Greater than 9.
+If 1 <= n <= 9, then print the lowercase English word corresponding to the number (e.g., one for 1, two for 2, etc.); otherwise, print Greater than 9.
 
 Sample Input 0
 
@@ -73,6 +77,7 @@ Sample Input 2
 Sample Output 2
 
 Greater than 9
+
 Explanation 2
 
- is greater than , so we print Greater than 9.*/
+ n = 44 is greater than , so we print Greater than 9.*/
