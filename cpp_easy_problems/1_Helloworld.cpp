@@ -23,7 +23,7 @@ Sample Output
 
 Hello, World! */
 
-//solve 1
+//Solution1_Mason
 #include <iostream>
 
 int main() {
