@@ -23,7 +23,7 @@ Sample Output
 
 Hello, World! */
 
-// Base code
+//Base code
 #include <iostream>
 #include <cstdio>
 using namespace std;
