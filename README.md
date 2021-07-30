@@ -15,7 +15,7 @@
 
 2-1. Please provide solution by pull request function.
 
-2-2. Please share the question and error through issue. 
+2-2. If you have a question please update on discussions page.
 
 
 ### 3. Notice List 
