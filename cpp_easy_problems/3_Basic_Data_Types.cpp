@@ -52,3 +52,13 @@ followed by long ,
 followed by char ,
 followed by float ,
 followed by double */
+
+//Base code
+#include <iostream>
+#include <cstdio>
+using namespace std;
+
+int main() {
+    // Complete the code.
+    return 0;
+}
