@@ -37,6 +37,21 @@ Explanation
 
 The sum of the three numbers is .*/
 
+//Base code
+#include <cmath>
+#include <cstdio>
+#include <vector>
+#include <iostream>
+#include <algorithm>
+using namespace std;
+
+
+int main() {
+    /* Enter your code here. Read input from STDIN. Print output to STDOUT */   
+    return 0;
+}
+
+
 //Solution1_Mason
 #include <iostream>
 using namespace std;
