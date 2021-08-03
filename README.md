@@ -13,11 +13,12 @@
 
 ### 2. Pull request and Issue policy.
 
-2-1. Please provide solution by pull request function.
+2-1. Please provide solution by the pull request function.
 
-2-2. If you have a question please update on discussions page.
+2-2. If you have a question please update on the discussions page.
 
 
 ### 3. Notice List 
 
 3-1. Basic syntax of C++ and Python
+
