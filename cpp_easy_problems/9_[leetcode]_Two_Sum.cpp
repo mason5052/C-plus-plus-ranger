@@ -40,7 +40,11 @@ public:
     }
 };
 
-[Py3][Mason]
+//Py3 base code
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+
+//[Py3][Mason][Pass]
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         for i in range(len(nums)):
